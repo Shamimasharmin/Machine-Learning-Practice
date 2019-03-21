@@ -20,3 +20,11 @@ iii) Polynomial Regression
 # What is Linear Regression ?
   
 Answer : Linear Regression is the statistical model used to predict the relationship between independent and dependent variables by examining two factors.The first one is which variables, in particular, are significant predictors of the outcome variable and the second one is how significant is the regression line to make predictions with the highest possible accuracy. 
+
+Linear Regression Formula:
+
+Linear regression is a linear approach for modeling the relationship between a dependent variable y and an independent variable x.
+ 
+                                     y = a0 + a1 * x
+                                     
+

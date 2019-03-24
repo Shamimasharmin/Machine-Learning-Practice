@@ -66,6 +66,10 @@ a0, a1 are co-efficients
 
 Linear regression is also called as Simple Linear Regression. In linear Regression, there will be always one Independent variable (x) .
 
+# What is Multiple Linear Regression ?
+
+Answer : 
+
 
 
 

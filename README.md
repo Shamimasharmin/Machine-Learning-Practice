@@ -57,10 +57,7 @@ Answer : Linear Regression is the statistical model used to predict the relation
 
 Linear Regression Formula: Linear regression is a linear approach for modeling the relationship between a dependent variable y and an independent variable x.
  
-                                     y = a0 + a1 * x
-y is dependent variable 
-
-x is independent variable
+                                              y = a0 + a1 * x
 
 a0, a1 are co-efficients
 
@@ -68,7 +65,15 @@ Linear regression is also called as Simple Linear Regression. In linear Regressi
 
 # What is Multiple Linear Regression ?
 
-Answer : 
+Answer : It is a statistical technique used to predict the outcome of a response variable through several explanatory variables and model the relationships between them. It represents line fitment between multiple inputs and one output. 
+
+Multiple Linear Regression Formula : The multiple linear regression explains the relationship between one continuous dependent variable (y) and two or more independent variables (x1, x2, x3..... etc).
+
+                               y = a0 + a1 * x1 + a2 *x2 + a3 * x3 + ...... + a_n * x_n
+
+a0, a1, a2, a3 , ....... , a_n are co-efficients
+
+Multiple Linear regression is also called as Simple Linear Regression but with more relationships. In Multiple Linear Regression, there will be always multiple Independent variables (x1, x2, x3, ..... , x_n) .
 
 
 

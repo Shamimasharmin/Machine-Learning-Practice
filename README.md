@@ -34,6 +34,13 @@ The process of learning begins with observations or data, such as examples, dire
 
 👉 Decision Making
 
+Three important libraries for Machine Learning those are use often. They are:
+ 
+                              i) Numpy - import numpy as np
+                             ii) Pandas - import pandas as pd
+                            iii) matplotlib.pyplot - import matplotlib.pyplot as plt
+                            
+                              
 # What is Regression ?
 
 Answer : In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships among variables.  

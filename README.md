@@ -40,6 +40,7 @@ Three important libraries for Machine Learning those are use often. They are:
                              ii) Pandas - import pandas as pd
                             iii) matplotlib.pyplot - import matplotlib.pyplot as plt
                             
+i) Numpy: This library contains mathematical tools. This is the library that we need to include for any types of mathematics in our code. Machine Learning methods are based on mathematics.
                               
 # What is Regression ?
 

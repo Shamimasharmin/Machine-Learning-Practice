@@ -42,6 +42,9 @@ Three important libraries for Machine Learning those are use often. They are:
                             
 i) Numpy: This library contains mathematical tools. This is the library that we need to include for any types of mathematics in our code. Machine Learning methods are based on mathematics.
                               
+ii) Pandas: This library is the best library to import dataset and manage dataset.
+
+
 # What is Regression ?
 
 Answer : In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships among variables.  

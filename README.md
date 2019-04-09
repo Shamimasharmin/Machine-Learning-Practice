@@ -44,6 +44,7 @@ i) Numpy: This library contains mathematical tools. This is the library that we 
                               
 ii) Pandas: This library is the best library to import dataset and manage dataset.
 
+iii) matplotlib.pyplot: matplotlib is a library and pyplot is the sub-library of matplotlib. This library is going to help plot nice charts.
 
 # What is Regression ?
 
@@ -86,6 +87,21 @@ a0, a1, a2, a3 , ....... , a_n are co-efficients
 
 Multiple Linear regression is also called as Simple Linear Regression but with more relationships. In Multiple Linear Regression, there will be always multiple Independent variables (x1, x2, x3, ..... , x_n) .
 
+# Types of Classification: 
 
+  i) Logistic Regression
+  
+ ii) K- Nearest Neighbor (KNN)
+ 
+iii) Support Vector Machine (SVM)
+
+ iv) Kernel SVM
+ 
+  v) Naive Bayes
+  
+ vi) Decision Tree Classification
+ 
+vii) Random Forest Classification 
+  
 
 

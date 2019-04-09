@@ -26,7 +26,7 @@ X_train = sc.fit_transform(X_train)
 X_test = sc.transform(X_test)
 
 #fitting classifier to the training set
-#here the have toimport different class, parameter for each classification(classifications are: logistic, knn, svm, kernel-svm, random forest, decision tree)
+#here need to import different class, parameter for each classification(classifications are: logistic, knn, svm, kernel-svm, random forest, decision tree)
 
 
 

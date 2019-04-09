@@ -25,7 +25,7 @@ sc = StandardScaler()
 X_train = sc.fit_transform(X_train)
 X_test = sc.transform(X_test)
 
-#fitting classifier to the training set
+#fitting logistic regression classification to the training set
 from sklearn.linear_model import LogisticRegression
 classifier = LogisticRegression(random_state = 0)
 classifier.fit(X_train, y_train)
@@ -55,9 +55,7 @@ plt.ylabel('Estimated Salary')
 plt.legend()
 plt.show()
 
-
 #visualizing test set result
-
 from matplotlib.colors import ListedColormap
 X_set, y_set = X_test, y_test
 X1, X2 = np.meshgrid(np.arange(start = X_set[:, 0].min() -1, stop = X_set[:, 0].max() + 2, step = 0.01),

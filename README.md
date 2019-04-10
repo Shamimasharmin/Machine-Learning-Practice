@@ -102,6 +102,14 @@ iii) Support Vector Machine (SVM)
  vi) Decision Tree Classification
  
 vii) Random Forest Classification 
-  
+
+# What is Clustering?
+Answer: Clustering is similar to classification, but the basis is different. In Clustering you dont know what you are looking for, and you are trying to identify some segments or clusters in your data. When you use clustering algorithms on your dataset, unexpected things can suddenly pop-up like structures, clusters and groupings you would have never thought of otherwise.
+
+# Types of Clustering:
+
+ i)K-Means Clustering
+ 
+ii)Hierarchical Clustering
 
 

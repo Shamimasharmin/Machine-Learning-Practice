@@ -113,3 +113,4 @@ Answer: Clustering is similar to classification, but the basis is different. In 
 ii)Hierarchical Clustering
 
 
+# 

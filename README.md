@@ -108,9 +108,15 @@ Answer: Clustering is similar to classification, but the basis is different. In 
 
 # Types of Clustering:
 
- i)K-Means Clustering
+ i) K-Means Clustering
  
-ii)Hierarchical Clustering
+ii) Hierarchical Clustering
 
 
-# 
+# Association Rule Learning: 
+
+# Types of Association Rule Learning Models:
+
+ i) Apriori
+ 
+ii) Eclat

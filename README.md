@@ -120,3 +120,11 @@ ii) Hierarchical Clustering
  i) Apriori
  
 ii) Eclat
+
+# Reinforcement Learning:
+
+# Types of Reinforcement Learning Models:
+
+ i) Upper Confidence Bound (UCB)
+ 
+ii) Thompson Sampling

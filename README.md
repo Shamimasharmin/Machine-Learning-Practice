@@ -128,3 +128,5 @@ ii) Eclat
  i) Upper Confidence Bound (UCB)
  
 ii) Thompson Sampling
+
+# NLP

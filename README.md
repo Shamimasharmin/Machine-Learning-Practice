@@ -130,3 +130,14 @@ ii) Eclat
 ii) Thompson Sampling
 
 # NLP
+
+
+
+
+# Deep Learning:
+
+# Types of Deep Learning Models:
+
+ i) Artificial Neural Networks
+ 
+ii) Convolutional Neural Networks

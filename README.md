@@ -129,7 +129,7 @@ ii) Eclat
  
 ii) Thompson Sampling
 
-# NLP
+# NLP (Natural Language Processing):
 
 
 

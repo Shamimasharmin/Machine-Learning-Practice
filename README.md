@@ -129,7 +129,9 @@ ii) Eclat
  
 ii) Thompson Sampling
 
-# NLP (Natural Language Processing):
+# NLP (Natural Language Processing): 
+
+NLP is a field in machine learning with the ability of a computer to understand, analyze, manipulate, and potentially generate human language.
 
 
 

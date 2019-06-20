@@ -138,6 +138,8 @@ NLP is a field in machine learning with the ability of a computer to understand,
 
 # Deep Learning:
 
+Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.
+
 # Types of Deep Learning Models:
 
  i) Artificial Neural Networks

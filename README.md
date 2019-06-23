@@ -134,8 +134,6 @@ ii) Thompson Sampling
 NLP is a field in machine learning with the ability of a computer to understand, analyze, manipulate, and potentially generate human language.
 
 
-
-
 # Deep Learning:
 
 Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.

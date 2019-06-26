@@ -144,5 +144,6 @@ Deep Learning is a subfield of machine learning concerned with algorithms inspir
  
 ii) Convolutional Neural Networks
 
+Artificial Neural Networks: An artificial neuron network (ANN) is a computational model based on the structure and functions of biological neural networks. Information that flows through the network affects the structure of the ANN because a neural network changes - or learns, in a sense - based on that input and output.
 
 #   

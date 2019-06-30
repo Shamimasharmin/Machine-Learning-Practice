@@ -146,4 +146,7 @@ ii) Convolutional Neural Networks
 
 Artificial Neural Networks: An artificial neuron network (ANN) is a computational model based on the structure and functions of biological neural networks. Information that flows through the network affects the structure of the ANN because a neural network changes - or learns, in a sense - based on that input and output. ANNs are considered nonlinear statistical data modeling tools where the complex relationships between inputs and outputs are modeled or patterns are found. ANN is also known as a neural network.
 
+Convolutional Neural Networks:
+
+
 #   
